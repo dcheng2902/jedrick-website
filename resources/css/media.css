@@ -1,0 +1,91 @@
+
+p {
+  background-color: whitesmoke;
+  text-align: center;
+  padding: 10px;
+  letter-spacing: 2px;
+  font-size: 17px;
+  color:rgb(26, 58, 105);
+  font-family: Arial;
+    
+    
+}
+  
+p a {
+  color: rgb(26, 58, 105);
+  opacity: 0.9;
+}
+
+p a:hover {
+  color: rgb(26, 58, 105);
+  opacity: 1;
+}
+
+div {
+  background-color: rgb(26, 58, 105);
+  height: 1000px;
+  width: 100%;
+}
+
+header h1 {
+  color: rgb(234, 233, 229);
+  font-size: 90px;
+  font-family: 'Avenir Next', sans-serif;
+  font-weight: bold;
+  position: absolute;
+  top: 70px;
+  left: 700px;
+}
+
+
+footer {
+  height: 150px;
+  background-color: whitesmoke;
+}
+
+footer nav {
+  text-align: center;
+  font-family: 'Avenir Next', sans-serif;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+footer a {
+  color: rgb(26, 58, 105);
+  opacity: 0.9;
+  text-decoration: none;
+}
+
+footer ul li {
+  margin-bottom: 20px;
+}
+
+footer a:hover {
+  color: rgb(26, 58, 105);
+  opacity: 1;
+}
+
+
+p.description {
+  position: absolute;
+  top: 210px;
+  left: 300px;
+  background-color: rgb(26, 58, 105);
+  text-align: left;
+  padding: 10px;
+  letter-spacing: 2px;
+  font-size: 17px;
+  color: whitesmoke;
+  font-family: Arial;
+  width: 600px;
+}
+
+p a.na-link {
+  color: whitesmoke;
+      
+}
+
+#img1 {
+    height: 200px;
+    width: 100px;
+}
